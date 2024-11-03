@@ -6,7 +6,7 @@ I'm a 4th-year Computer Science student at Canadian University Dubai. My passion
 - **Research on Random Forest Classifiers**: Conducting a study to evaluate custom-built Random Forest models with integrated sampling methods for improved accuracy and efficiency in predictive analytics.
 
 ## 📜 Published Research
-I have a published paper where I explored various sampling algorithms on different classifiers along with few peers, leading to promising combinations like SMOTE with Random Forest. My current research builds on this, aiming to push these combinations further with new algorithms.
+I have a published paper where I and fellow peers explored various sampling algorithms on different classifiers, leading to promising combinations like SMOTE with Random Forest. My current research builds on this, aiming to push these combinations further with new algorithms.
 
 ## 🛠️ Technologies & Tools
 - **Programming**: Python, SQL
