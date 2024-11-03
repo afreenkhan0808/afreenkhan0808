@@ -7,7 +7,8 @@ I'm a 4th-year Computer Science student at Canadian University Dubai. My passion
 
 ## 📜 Published Research
 I have a published paper where I and fellow peers explored various sampling algorithms on different classifiers, leading to promising combinations like SMOTE with Random Forest. My current research builds on this, aiming to push these combinations further with new algorithms.
-**Performance of Sampling Methods**: (https://ieeexplore.ieee.org/abstract/document/10708760)
+
+- **Performance of Sampling Methods**: (https://ieeexplore.ieee.org/abstract/document/10708760)
 
 ## 🛠️ Technologies & Tools
 - **Programming**: Python, SQL
