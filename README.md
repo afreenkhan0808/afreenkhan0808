@@ -1,16 +1,21 @@
 ## Hi there 👋
 
+I'm a 4th year Computer Science student at Canadian Univeristy Dubai. My passion lies in leveraging AI for impactful real-world applications, with particular interest in predictive modeling, healthcare solutions, and user-centric AI interfaces. I'm currently located in Dubai.
 
-**afreenkhan0808/afreenkhan0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 What I’m Working On
+Research on Random Forest Classifiers: Conducting a study to evaluate custom-built Random Forest models with integrated sampling methods for improved accuracy and efficiency in predictive analytics.
+📜 Published Research
+I have a published paper where I explored various sampling algorithms on different classifiers, leading to promising combinations like SMOTE with Random Forest. My current research builds on this, aiming to push these combinations further with new algorithms.
 
-Here are some ideas to get you started:
+🛠️ Technologies & Tools
+Programming: Python, SQL
+Data Science Libraries: scikit-learn, pandas, numpy
+Machine Learning: Random Forest, DNN, sampling techniques (SMOTE, ROS, RUS)
+Data Visualization: Matplotlib, Seaborn
+Other Tools: Jupyter, Google Colab, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💬 Get in Touch
+I'm always open to connecting with like-minded people. Feel free to reach out about collaboration opportunities, especially in the fields of healthcare, predictive modeling, and AI applications in public safety.
 
+LinkedIn: https://www.linkedin.com/in/afreentkhan/
+Email: afreenkhan0808@gmaail.com 
