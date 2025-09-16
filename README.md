@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Afreen Khan
 
-Currently pursuing a Masters of Science in Artifical Intelligence at Heriot Watt Univeristy Dubai. I attained my Bachelors of Science in Computer Science at Candian University Dubai, 2025. My passion lies in leveraging AI for impactful real-world applications, with particular interest in predictive modelling, healthcare solutions, and user-centric AI interfaces. I'm currently located in Dubai.
+Currently pursuing a Master of Science in Artificial Intelligence at Heriot Watt Univeristy. I attained my Bachelors of Science in Computer Science at Candian University Dubai, 2025. My passion lies in leveraging AI for impactful real-world applications, with particular interest in predictive modelling, healthcare solutions, and user-centric AI interfaces. I'm currently located in Dubai.
 
 ## 🌱 What I’m Working On
 - **Research on Random Forest Classifiers**: Conducting a study to evaluate custom-built Random Forest models with integrated sampling methods for improved accuracy and efficiency in predictive analytics.
-- **Medoxa**: AI Medical Chatbot intended to help medical students practice their patient interaction skills in the domain of cancer. 
+- **Medoxa**: AI Medical Chatbot intended to help medical students practice their patient interaction skills in the domain of cancer and their diagnosis skills using real-life case studies. The dataset used was created by our group using web scraping techniques. The dataset includes text information and relevant medical images such as CT scans, xrays etc.  
 
 ## 📜 Published Research
 I have a published paper where I and fellow peers explored various sampling algorithms on different classifiers, leading to promising combinations like SMOTE with Random Forest. My current research builds on this, aiming to push these combinations further with new algorithms.
@@ -15,7 +15,7 @@ I have a published paper where I and fellow peers explored various sampling algo
 - **Programming**: Python, SQL
 - **Data Science Libraries**: scikit-learn, pandas, numpy
 - **Machine Learning**: Random Forest, DNN, sampling techniques (SMOTE, ROS, RUS)
-- **Data Visualization**: Matplotlib, Seaborn, Tableu, Power BI
+- **Data Visualization**: Matplotlib, Seaborn, Tableau, Power BI
 - **Other Tools**: Jupyter, Google Colab, Git
 
 ## 💬 Get in Touch
